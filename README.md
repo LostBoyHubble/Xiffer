@@ -43,4 +43,4 @@ It's important to know that you cannot use comments before and after arguments l
 
 Release Number | Release Date | Release Name | Patch Note | File | File Type | Vulnerabilities
 ---------------|--------------|--------------|------------|------|-----------|----------------
-01 | 15. September 2022 | Xiffer 1.0-SNAPSHOT | [PN]() | [F]() | Library Jar File | 0
+01 | 15. September 2022 | Xiffer 1.0-SNAPSHOT | [PN]() | [F](https://github.com/LostBoyHubble/Xiffer/releases/tag/Published) | Library Jar File | 0

@@ -1,6 +1,6 @@
 # Xiffer Tool
 
-[Dokumentation]() | [Downloads]() | [Patch Notes]() <br>
+[Dokumentation]() | [Downloads](https://github.com/LostBoyHubble/Xiffer/blob/master/README.md#downloads) | [Patch Notes]() <br>
 <br>
 <br>
 
